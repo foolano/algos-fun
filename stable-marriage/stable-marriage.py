@@ -1,5 +1,4 @@
 #!/usr/bin/python env
-import sys
 import sets
 
 def next_propose(free_m, m_pref, proposed_to):
